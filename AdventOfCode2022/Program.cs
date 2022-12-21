@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Day16.FirstStep());
+            Console.WriteLine(Day18.SecondStep());
         }
     }
 }
